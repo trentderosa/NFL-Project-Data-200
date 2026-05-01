@@ -1,0 +1,255 @@
+round,pick,team,player,position,college,draft_score
+1,1,Las Vegas Raiders,Fernando Mendoza,QB,IndianaFernando Mendoza,14
+1,2,New York Jets,David Bailey,OLB,Texas TechDavid Bailey,13
+1,3,Arizona Cardinals,Jeremiyah Love,RB,Notre DameJeremiyah Love,11
+1,4,Tennessee Titans,Carnell Tate,WR,Ohio St.Carnell Tate,13
+1,5,New York Giants,Arvell Reese,LB,Ohio St.Arvell Reese,12
+1,6,Kansas City Chiefs,Mansoor Delane,CB,LSUMansoor Delane,13
+1,7,Washington Commanders,Sonny Styles,LB,Ohio St.Sonny Styles,12
+1,8,New Orleans Saints,Jordyn Tyson,WR,Arizona St.Jordyn Tyson,13
+1,9,Cleveland Browns,Spencer Fano,OT,UtahSpencer Fano,13
+1,10,New York Giants,Francis Mauigoa,OT,Miami (FL)Francis Mauigoa,13
+1,11,Dallas Cowboys,Caleb Downs,S,Ohio St.Caleb Downs,12
+1,12,Miami Dolphins,Kadyn Proctor,OT,AlabamaKadyn Proctor,13
+1,13,Los Angeles Rams,Ty Simpson,QB,AlabamaTy Simpson,14
+1,14,Baltimore Ravens,Olaivavega Ioane,G,Penn St.Olaivavega Ioane,11
+1,15,Tampa Bay Buccaneers,Rueben Bain,DE,Miami (FL)Rueben Bain,13
+1,16,New York Jets,Kenyon Sadiq,TE,OregonKenyon Sadiq,12
+1,17,Detroit Lions,Blake Miller,OT,ClemsonBlake Miller,13
+1,18,Minnesota Vikings,Caleb Banks,DT,FloridaCaleb Banks,12
+1,19,Carolina Panthers,Monroe Freeling,OT,GeorgiaMonroe Freeling,13
+1,20,Philadelphia Eagles,Makai Lemon,WR,USCMakai Lemon,13
+1,21,Pittsburgh Steelers,Max Iheanachor,OT,Arizona St.Max Iheanachor,13
+1,22,Los Angeles Chargers,Akheem Mesidor,DE,Miami (FL)Akheem Mesidor,13
+1,23,Dallas Cowboys,Malachi Lawrence,DE,UCFMalachi Lawrence,13
+1,24,Cleveland Browns,KC Concepcion,WR,Texas A,13
+1,25,Chicago Bears,Dillon Thieneman,S,OregonDillon Thieneman,12
+1,26,Houston Texans,Keylan Rutledge,G,Georgia TechKeylan Rutledge,11
+1,27,Miami Dolphins,Chris Johnson,CB,SDSUChris Johnson,13
+1,28,New England Patriots,Caleb Lomu,OT,UtahCaleb Lomu,13
+1,29,Kansas City Chiefs,Peter Woods,DT,ClemsonPeter Woods,12
+1,30,New York Jets,Omar Cooper,WR,IndianaOmar Cooper,13
+1,31,Tennessee Titans,Keldric Faulk,DE,AuburnKeldric Faulk,13
+1,32,Seattle Seahawks,Jadarian Price,RB,Notre DameJadarian Price,11
+2,1,San Francisco 49ers,De'Zhaun Stribling,WR,MississippiDe,10
+2,2,Arizona Cardinals,Chase Bisontis,G,Texas A,8
+2,3,Buffalo Bills,T.J. Parker,DE,ClemsonT.J. Parker,10
+2,4,Houston Texans,Kayden Mc,DT,Ohio St.Kayden McDonald,9
+2,5,New York Giants,Colton Hood,CB,TennesseeColton Hood,10
+2,6,Las Vegas Raiders,Treydan Stukes,CB,ArizonaTreydan Stukes,10
+2,7,Cleveland Browns,Denzel Boston,WR,WashingtonDenzel Boston,10
+2,8,Kansas City Chiefs,R Mason,DE,OklahomaR Mason Thomas,10
+2,9,Cincinnati Bengals,Cashius Howell,DE,Texas A,10
+2,10,New Orleans Saints,Christen Miller,DT,GeorgiaChristen Miller,9
+2,11,Miami Dolphins,Jacob Rodriguez,LB,Texas TechJacob Rodriguez,9
+2,12,Detroit Lions,Derrick Moore,DE,MichiganDerrick Moore,10
+2,13,Baltimore Ravens,Zion Young,DE,MissouriZion Young,10
+2,14,Tampa Bay Buccaneers,Josiah Trotter,LB,MissouriJosiah Trotter,9
+2,15,Pittsburgh Steelers,Germie Bernard,WR,AlabamaGermie Bernard,10
+2,16,Atlanta Falcons,Avieon Terrell,CB,ClemsonAvieon Terrell,10
+2,17,Carolina Panthers,Lee Hunter,DT,Texas TechLee Hunter,9
+2,18,New York Jets,D'Angelo Ponds,CB,IndianaD,10
+2,19,Minnesota Vikings,Jake Golday,LB,CincinnatiJake Golday,9
+2,20,Green Bay Packers,Brandon Cisse,CB,South CarolinaBrandon Cisse,10
+2,21,Indianapolis Colts,CJ Allen,LB,GeorgiaCJ Allen,9
+2,22,Philadelphia Eagles,Eli Stowers,TE,VanderbiltEli Stowers,9
+2,23,New England Patriots,Gabe Jacas,DE,IllinoisGabe Jacas,10
+2,24,Jacksonville Jaguars,Nate Boerkircher,TE,Texas A,9
+2,25,Chicago Bears,Logan Jones,C,IowaLogan Jones,8
+2,26,Cleveland Browns,Emmanuel Mc,S,ToledoEmmanuel McNeil,9
+2,27,Houston Texans,Marlin Klein,TE,MichiganMarlin Klein,9
+2,28,Tennessee Titans,Anthony Hill,LB,TexasAnthony Hill,9
+2,29,Los Angeles Rams,Max Klare,TE,Ohio St.Max Klare,9
+2,30,Buffalo Bills,Davison Igbinosun,CB,Ohio St.Davison Igbinosun,10
+2,31,Los Angeles Chargers,Jake Slaughter,C,FloridaJake Slaughter,8
+2,32,Seattle Seahawks,Bud Clark,S,TCUBud Clark,9
+3,1,Arizona Cardinals,Carson Beck,QB,Miami (FL)Carson Beck,9
+3,2,Denver Broncos,Tyler Onyedim,DT,Texas A,7
+3,3,Las Vegas Raiders,Keyron Crawford,DE,AuburnKeyron Crawford,8
+3,4,Philadelphia Eagles,Markel Bell,OT,Miami (FL),8
+3,5,Chicago Bears,Sam Roush,TE,StanfordSam Roush,7
+3,6,San Francisco 49ers,Romello Height,DE,Texas TechRomello Height,8
+3,7,Washington Commanders,Antonio Williams,WR,ClemsonAntonio Williams,8
+3,8,Cincinnati Bengals,Tacario Davis,CB,WashingtonTacario Davis,8
+3,9,New Orleans Saints,Oscar Delp,TE,GeorgiaOscar Delp,7
+3,10,New York Giants,Malachi Fields,WR,Notre DameMalachi Fields,8
+3,11,Miami Dolphins,Caleb Douglas,WR,Texas Tech,8
+3,12,Pittsburgh Steelers,Drew Allar,QB,Penn St.Drew Allar,9
+3,13,Green Bay Packers,Chris Mc,DT,Missouri,7
+3,14,Indianapolis Colts,A.J. Haulcy,S,LSUA.J. Haulcy,7
+3,15,Atlanta Falcons,Zachariah Branch,WR,GeorgiaZachariah Branch,8
+3,16,Baltimore Ravens,Ja'Kobi Lane,WR,USCJa,8
+3,17,Jacksonville Jaguars,Albert Regis,DT,Texas A,7
+3,18,Minnesota Vikings,Domonique Orange,DT,Iowa St.Domonique Orange,7
+3,19,Carolina Panthers,Chris Brazzell,WR,TennesseeChris Brazzell,8
+3,20,Tampa Bay Buccaneers,Ted Hurst,WR,Georgia St.Ted Hurst,8
+3,21,Pittsburgh Steelers,Daylen Everette,CB,GeorgiaDaylen Everette,8
+3,22,Cleveland Browns,Austin Barber,OT,FloridaAustin Barber,8
+3,23,Miami Dolphins,Will Kacmarek,TE,Ohio St.,7
+3,24,Jacksonville Jaguars,Emmanuel Pregnon,G,OregonEmmanuel Pregnon,6
+3,25,Chicago Bears,Zavion Thomas,WR,LSUZavion Thomas,8
+3,26,San Francisco 49ers,Kaelon Black,RB,IndianaKaelon Black,6
+3,27,Las Vegas Raiders,Trey Zuhn,OT,Texas A,8
+3,28,Dallas Cowboys,Jaishawn Barham,DE,MichiganJaishawn Barham,8
+3,29,Los Angeles Rams,Keagen Trost,OT,Missouri,8
+3,30,Miami Dolphins,Chris Bell,WR,LouisvilleChris Bell,8
+3,31,New England Patriots,Eli Raridon,TE,Notre DameEli Raridon,7
+3,32,Pittsburgh Steelers,Gennings Dunker,OT,IowaGennings Dunker,8
+3,33,Minnesota Vikings,Caleb Tiernan,OT,NorthwesternCaleb Tiernan,8
+3,34,Minnesota Vikings,Jakobe Thomas,S,Miami (FL),7
+3,35,Seattle Seahawks,Julian Neal,CB,ArkansasJulian Neal,8
+3,36,Jacksonville Jaguars,Jalen Huskey,S,MarylandJalen Huskey,7
+4,1,Las Vegas Raiders,Jermod Mc,CB,TennesseeJermod McCoy,6
+4,2,Buffalo Bills,Jude Bowry,OT,Boston Coll.Jude Bowry,6
+4,3,New York Jets,Darrell Jackson,DT,Florida St.Darrell Jackson,5
+4,4,Arizona Cardinals,Kaleb Proctor,DT,SE LouisianaKaleb Proctor,5
+4,5,Los Angeles Chargers,Brenen Thompson,WR,Mississippi St.Brenen Thompson,6
+4,6,Houston Texans,Febechi Nwaiwu,G,Oklahoma,4
+4,7,San Francisco 49ers,Gracen Halton,DT,OklahomaGracen Halton,5
+4,8,Denver Broncos,Jonah Coleman,RB,WashingtonJonah Coleman,4
+4,9,Kansas City Chiefs,Jadon Canady,CB,OregonJadon Canady,6
+4,10,New York Jets,Cade Klubnik,QB,ClemsonCade Klubnik,7
+4,11,Denver Broncos,Kage Casey,OT,Boise St.Kage Casey,6
+4,12,Dallas Cowboys,Drew Shelton,OT,Penn St.Drew Shelton,6
+4,13,Indianapolis Colts,Jalen Farmer,G,KentuckyJalen Farmer,4
+4,14,Dallas Cowboys,Devin Moore,CB,FloridaDevin Moore,6
+4,15,Baltimore Ravens,Elijah Sarratt,WR,IndianaElijah Sarratt,6
+4,16,Tampa Bay Buccaneers,Keionte Scott,CB,Miami (FL)Keionte Scott,6
+4,17,Los Angeles Chargers,Travis Burke,OT,MemphisTravis Burke,6
+4,18,Detroit Lions,Jimmy Rolder,LB,MichiganJimmy Rolder,5
+4,19,Jacksonville Jaguars,Wesley Williams,DE,DukeWesley Williams,6
+4,20,Green Bay Packers,Dani Dennis,DE,Penn St.Dani Dennis,6
+4,21,Pittsburgh Steelers,Kaden Wetjen,WR,Iowa,6
+4,22,Las Vegas Raiders,Mike Washington,RB,ArkansasMike Washington,4
+4,23,Houston Texans,Wade Woodaz,LB,ClemsonWade Woodaz,5
+4,24,Chicago Bears,Malik Muhammad,CB,TexasMalik Muhammad,6
+4,25,Buffalo Bills,Skyler Bell,WR,Connecticut,6
+4,26,Buffalo Bills,Kaleb Elarms,LB,TCUKaleb Elarms,5
+4,27,San Francisco 49ers,Carver Willis,OT,Washington,6
+4,28,Cincinnati Bengals,Connor Lew,C,AuburnConnor Lew,4
+4,29,Carolina Panthers,Will Lee,CB,Texas A,6
+4,30,Miami Dolphins,Trey Moore,LB,TexasTrey Moore,5
+4,31,Los Angeles Chargers,Genesis Smith,S,Arizona,5
+4,32,New Orleans Saints,Jeremiah Wright,G,AuburnJeremiah Wright,4
+4,33,Baltimore Ravens,Matthew Hibner,TE,SMUMatthew Hibner,5
+4,34,Atlanta Falcons,Kendal Daniels,LB,OklahomaKendal Daniels,5
+4,35,Indianapolis Colts,Bryce Boettcher,LB,OregonBryce Boettcher,5
+4,36,New Orleans Saints,Bryce Lance,WR,N. Dak. St.Bryce Lance,6
+4,37,Dallas Cowboys,LT Overton,DE,AlabamaLT Overton,6
+4,38,Miami Dolphins,Kyle Louis,LB,PittsburghKyle Louis,5
+4,39,San Francisco 49ers,Ephesians Prysock,CB,WashingtonEphesians Prysock,6
+4,40,Cincinnati Bengals,Colbie Young,WR,GeorgiaColbie Young,6
+5,1,Houston Texans,Kamari Ramsey,S,USCKamari Ramsey,4
+5,2,Tennessee Titans,Fernando Carmona,G,Arkansas,3
+5,3,Arizona Cardinals,Reggie Virgil,WR,Texas TechReggie Virgil,5
+5,4,Carolina Panthers,Sam Hecht,C,Kansas St.,3
+5,5,Los Angeles Chargers,Nick Barrett,DT,South Carolina,4
+5,6,Cleveland Browns,Parker Brailsford,C,AlabamaParker Brailsford,3
+5,7,Washington Commanders,Joshua Josephs,DE,Tennessee,5
+5,8,Seattle Seahawks,Beau Stephens,G,IowaBeau Stephens,3
+5,9,Cleveland Browns,Justin Jefferson,LB,AlabamaJustin Jefferson,4
+5,10,Las Vegas Raiders,Dalton Johnson,S,Arizona,4
+5,11,Carolina Panthers,Zakee Wheatley,S,Penn St.Zakee Wheatley,4
+5,12,Denver Broncos,Justin Joly,TE,NC State,4
+5,13,Green Bay Packers,Jager Burton,C,Kentucky,3
+5,14,San Francisco 49ers,Jaden Dugger,OLB,Louisiana,5
+5,15,Tampa Bay Buccaneers,DeMonte Capehart,DT,ClemsonDeMonte Capehart,4
+5,16,Indianapolis Colts,George Gumbs,DE,FloridaGeorge Gumbs,5
+5,17,Kansas City Chiefs,Keith Abney,CB,Arizona St.Keith Abney,5
+5,18,Miami Dolphins,Michael Taaffe,S,TexasMichael Taaffe,4
+5,19,Minnesota Vikings,Max Bredeson,FB,Michigan,2
+5,20,Tampa Bay Buccaneers,Billy Schrauth,G,Notre DameBilly Schrauth,3
+5,21,Kansas City Chiefs,Emmett Johnson,RB,NebraskaEmmett Johnson,3
+5,22,Baltimore Ravens,Chandler Rivers,CB,DukeChandler Rivers,5
+5,23,Minnesota Vikings,Charles Demmings,CB,S.F. AustinCharles Demmings,5
+5,24,Jacksonville Jaguars,Tanner Koziol,TE,HoustonTanner Koziol,4
+5,25,Tennessee Titans,Nicholas Singleton,RB,Penn St.Nicholas Singleton,3
+5,26,Chicago Bears,Keyshaun Elliott,LB,Arizona St.Keyshaun Elliott,4
+5,27,Buffalo Bills,Jalon Kilgore,CB,South CarolinaJalon Kilgore,5
+5,28,Detroit Lions,Kendrick Law,WR,Kentucky,5
+5,29,Pittsburgh Steelers,Riley Nowakowski,TE,IndianaRiley Nowakowski,4
+5,30,Cleveland Browns,Joe Royer,TE,CincinnatiJoe Royer,4
+5,31,New England Patriots,Karon Prunty,DB,Wake Forest,2
+5,33,Baltimore Ravens,Josh Cuevas,TE,AlabamaJosh Cuevas,4
+5,34,Baltimore Ravens,Adam Randall,RB,ClemsonAdam Randall,3
+5,35,Las Vegas Raiders,Hezekiah Masses,CB,CaliforniaHezekiah Masses,5
+5,36,Kansas City Chiefs,Cyrus Allen,WR,CincinnatiCyrus Allen,5
+5,37,Miami Dolphins,Kevin Coleman,WR,MissouriKevin Coleman,5
+5,38,Philadelphia Eagles,Cole Payton,QB,N. Dak. St.Cole Payton,6
+5,39,San Francisco 49ers,Enrique Cruz,OT,Kansas,5
+5,40,Miami Dolphins,Seydou Traore,TE,Mississippi St.,4
+5,41,Buffalo Bills,Zane Durant,DT,Penn St.Zane Durant,4
+6,1,Cleveland Browns,Taylen Green,QB,ArkansasTaylen Green,5
+6,2,Arizona Cardinals,Karson Sharar,LB,Iowa,3
+6,3,Tennessee Titans,Jackie Marshall,DE,Baylor,4
+6,4,Tampa Bay Buccaneers,Bauer Sharp,TE,LSUBauer Sharp,3
+6,5,New York Giants,Bobby Jamison,DT,Auburn,3
+6,6,Washington Commanders,Kaytron Allen,RB,Penn St.Kaytron Allen,2
+6,7,New York Jets,Anez Cooper,G,Miami (FL)Anez Cooper,2
+6,8,Kansas City Chiefs,Brian Parker,OT,DukeBrian Parker,4
+6,9,New Orleans Saints,Barion Brown,WR,LSU,4
+6,10,Jacksonville Jaguars,Josh Cameron,WR,BaylorJosh Cameron,4
+6,11,New York Giants,J.C. Davis,OT,IllinoisJ.C. Davis,4
+6,12,New York Giants,Jack Kelly,LB,BYUJack Kelly,3
+6,13,Tennessee Titans,Pat Coogan,C,IndianaPat Coogan,2
+6,14,Las Vegas Raiders,Malik Benson,WR,TBD,4
+6,15,New England Patriots,Dametrious Crownover,OT,Texas A,4
+6,16,Los Angeles Rams,CJ Daniels,WR,Miami (FL)CJ Daniels,4
+6,17,Minnesota Vikings,Demond Claiborne,RB,Wake ForestDemond Claiborne,2
+6,19,Miami Dolphins,DJ Campbell,G,TexasDJ Campbell,2
+6,20,Green Bay Packers,Domani Jackson,CB,AlabamaDomani Jackson,4
+6,21,Los Angeles Chargers,Logan Taylor,G,Boston Coll.,2
+6,22,Philadelphia Eagles,CJ Williams,WR,Stanford,4
+6,23,Houston Texans,Lewis Bond,WR,Boston Coll.Lewis Bond,4
+6,24,Detroit Lions,Skyler Gill,DT,Texas TechSkyler Gill,3
+6,25,Los Angeles Chargers,Alex Harkey,OT,OregonAlex Harkey,4
+6,26,Philadelphia Eagles,Micah Morris,G,GeorgiaMicah Morris,2
+6,27,Atlanta Falcons,Anterio Thompson,DT,Washington,3
+6,28,Washington Commanders,Matt Gulbin,C,Michigan St.,2
+6,29,Pittsburgh Steelers,Gabe Rubio,DL,Notre Dame,3
+6,30,Baltimore Ravens,Ryan Eckley,P,Michigan St.,1
+6,31,New England Patriots,Namdi Obiazor,LB,TCUNamdi Obiazor,3
+6,32,Chicago Bears,Den Berg,DT,Georgia Tech,3
+6,33,Indianapolis Colts,Caden Curry,DE,Ohio St.Caden Curry,4
+6,34,Atlanta Falcons,Harold Perkins,LB,LSUHarold Perkins,3
+6,35,Green Bay Packers,Trey Smack,K,FloridaTrey Smack,1
+7,1,Arizona Cardinals,Jayden Williams,OT,Mississippi,4
+7,2,Dallas Cowboys,Anthony Smith,WR,East Carolina,4
+7,3,New Orleans Saints,TJ Hall,CB,Iowa,4
+7,4,Buffalo Bills,Toriano Pride,CB,Missouri,4
+7,5,Cincinnati Bengals,Jack Endries,TE,Texas,3
+7,6,Detroit Lions,Tyre West,DT,Tennessee,3
+7,7,Washington Commanders,Athan Kaliakmanis,QB,RutgersAthan Kaliakmanis,5
+7,8,New England Patriots,Robert Spears,S,OklahomaRobert Spears,3
+7,9,Tennessee Titans,Jaren Kanak,TE,OklahomaJaren Kanak,3
+7,10,Cincinnati Bengals,Landon Robinson,NT,NavyLandon Robinson,1
+7,11,Carolina Panthers,Jackson Kuwatch,LB,Miami (OH),3
+7,12,New York Jets,VJ Payne,S,Kansas St.VJ Payne,3
+7,13,Las Vegas Raiders,Brandon Cleveland,DT,NC State,3
+7,14,Pittsburgh Steelers,Eli Heidenreich,FB,NavyEli Heidenreich,1
+7,15,Atlanta Falcons,Ethan Onianwa,G,Ohio St.Ethan Onianwa,2
+7,16,Los Angeles Rams,Tim Keenan,DT,AlabamaTim Keenan,3
+7,18,New England Patriots,Behren Morton,QB,Texas TechBehren Morton,5
+7,19,Minnesota Vikings,Gavin Gerhardt,C,Cincinnati,2
+7,20,Seattle Seahawks,Andre Fuller,CB,Toledo,4
+7,21,Indianapolis Colts,Seth Mc,RB,KentuckySeth McGowan,2
+7,22,Miami Dolphins,Max Llewellyn,DE,Iowa,4
+7,23,Buffalo Bills,Tommy Doman,P,FloridaTommy Doman,1
+7,24,Jacksonville Jaguars,Parker Hughes,LB,Middle Tenn. St.,3
+7,25,Buffalo Bills,Ar'maj Reed,G,Texas A,2
+7,26,Seattle Seahawks,Deven Eastern,DT,MinnesotaDeven Eastern,3
+7,27,Houston Texans,Aiden Fisher,LB,IndianaAiden Fisher,3
+7,28,Philadelphia Eagles,Cole Wisniewski,S,Texas TechCole Wisniewski,3
+7,29,New England Patriots,Jam Miller,RB,Alabama,2
+7,30,Denver Broncos,Miles Scott,S,Illinois,3
+7,31,New England Patriots,Quintayvious Hutchins,DE,Boston Coll.,4
+7,32,Cleveland Browns,Carsen Ryan,TE,BYU,3
+7,33,Kansas City Chiefs,Garrett Nussmeier,QB,LSUGarrett Nussmeier,5
+7,34,Baltimore Ravens,Rayshaun Benny,DT,MichiganRayshaun Benny,3
+7,35,Philadelphia Eagles,Uar Bernard,DT,Nigeria,3
+7,36,Philadelphia Eagles,Keyshawn James,DE,New MexicoKeyshawn James,4
+7,37,Baltimore Ravens,Evan Beerntsen,OG,Northwestern,2
+7,38,Indianapolis Colts,Deion Burks,WR,OklahomaDeion Burks,4
+7,39,Seattle Seahawks,Michael Dansby,CB,Arizona,4
+7,40,Denver Broncos,Dallen Bentley,TE,UtahDallen Bentley,3
+7,41,Denver Broncos,Red Murdock,LB,Buffalo,3
