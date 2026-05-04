@@ -1,0 +1,77 @@
+\documentclass[12pt]{article}
+
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{setspace}
+
+\title{
+    \includegraphics[width=0.2\textwidth]{jmu_logo.jpg} \\[1em]
+    Data 200: Data Speaks \\ 
+    \large Predicting NFL Team Performance
+}
+
+\author{
+Group Members: \\ 
+Trent DeRosa \\ 
+Blake Somers \\ 
+Jahleel McCallum \\ 
+Shadrach Baako-Amponsah \\[1em]
+James Madison University
+}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section*{Project Topic}
+
+For our project, we focused on predicting NFL team performance for the 2026 season. We used data from the previous season along with draft-related information to explore what factors may impact how many games a team is predicted to win.
+
+\section*{1. What kind of data do you have, and what plot did you choose to represent it?}
+
+The data we used includes NFL team performance data and draft results. Some of the main variables included 2025 wins, predicted 2026 wins, total draft score, offensive performance, defensive performance, and other team-related features.
+
+To represent this data, we created several plots using Python. The first plot was a bar chart showing predicted 2026 wins by team. This helped us clearly compare each team's projected performance. We also created a scatter plot comparing total draft score to predicted wins, which helped us see whether draft success was related to future team success. Finally, we used another scatter plot comparing 2025 wins to predicted 2026 wins to see how strongly past performance connected to future predictions.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.85\textwidth]{predicted_wins_chart.png}
+    \caption{Predicted 2026 Wins by Team}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.85\textwidth]{draft_vs_wins.png}
+    \caption{Draft Score vs Predicted 2026 Wins}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.85\textwidth]{wins_comparison.png}
+    \caption{2025 Wins vs Predicted 2026 Wins}
+\end{figure}
+
+\section*{2. What conclusions can you make from the plots and trends you explored using Python?}
+
+From the plots, one of the biggest conclusions we made was that draft score alone does not strongly predict team success. The draft score vs predicted wins plot had a very weak correlation, which shows that having a strong draft does not automatically mean a team will win more games right away.
+
+Another conclusion was that past performance had a much stronger connection to predicted future performance. The comparison between 2025 wins and predicted 2026 wins showed a very strong relationship. This means teams that were already strong last season were more likely to be predicted as strong teams again.
+
+Overall, the trends showed that NFL team success is not based on only one factor. Draft results matter, but they need to be viewed along with team performance, coaching, roster strength, and how well the team played the season before.
+
+\section*{3. How can you use these results to create a talking point that has some relevance?}
+
+A relevant talking point from our project is that NFL fans and analysts often focus heavily on the draft, but our data suggests that the draft does not tell the full story. A team can have a good draft and still struggle if they had poor performance the year before or if the team has deeper issues.
+
+This matters because it shows that predicting sports outcomes requires looking at the bigger picture. Instead of only asking which team had the best draft, it may be more useful to ask which teams already had strong foundations and used the draft to improve specific weaknesses.
+
+Our main takeaway is that past performance was the strongest predictor in our model, while draft results were only one part of the overall picture.
+
+\section*{Final Reflection}
+
+During this project, we learned that data visualization makes it easier to understand patterns that are not always obvious from raw numbers. We also learned that one variable by itself usually is not enough to explain a full prediction. Combining multiple pieces of data gives a stronger and more realistic view of team performance.
+
+\end{document}

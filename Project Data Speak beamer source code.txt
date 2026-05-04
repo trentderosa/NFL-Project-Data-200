@@ -1,0 +1,125 @@
+\documentclass{beamer}
+
+\usetheme{Madrid}
+\usecolortheme{default}
+
+\usepackage{graphicx}
+\usepackage{tikz}
+
+% Remove navigation symbols
+\setbeamertemplate{navigation symbols}{}
+
+% Custom footer
+\setbeamertemplate{footline}{
+    \leavevmode
+    \hbox{
+        \begin{beamercolorbox}[wd=.33\paperwidth,ht=2.5ex,dp=1ex,left]{author in head/foot}
+            \hspace{1em}Group Project
+        \end{beamercolorbox}
+        \begin{beamercolorbox}[wd=.34\paperwidth,ht=2.5ex,dp=1ex,center]{title in head/foot}
+            Data 200
+        \end{beamercolorbox}
+        \begin{beamercolorbox}[wd=.33\paperwidth,ht=2.5ex,dp=1ex,right]{date in head/foot}
+            \insertframenumber{} / \inserttotalframenumber \hspace{1em}
+        \end{beamercolorbox}
+    }
+    \vskip0pt
+}
+
+\title{Predicting NFL Team Performance}
+\subtitle{Using Draft Data and Past Team Performance}
+\author{Group Members: Trent DeRosa, Blake Somers, Jahleel McCallum, Shadrach Baako-Amponsah}
+\institute{James Madison University \\ DATA 200: Data Speaks}
+\date{\today}
+
+\begin{document}
+
+% ---------------- TITLE SLIDE ----------------
+\begin{frame}
+    \titlepage
+
+    \vspace{-0.8cm}
+
+    \begin{center}
+        \includegraphics[width=0.15\textwidth]{jmu_logo.jpg}
+        \hspace{1cm}
+        \includegraphics[width=0.12\textwidth]{nfl_logo.png}
+    \end{center}
+\end{frame}
+
+% ---------------- SLIDE 1 ----------------
+\begin{frame}{Project Goal}
+\begin{itemize}
+    \item Our project focused on predicting how NFL teams may perform in 2026.
+    \item We used last season performance data along with draft-related data.
+    \item The main goal was to see which factors had the strongest impact on predicted wins.
+\end{itemize}
+\end{frame}
+
+% ---------------- SLIDE 2 ----------------
+\begin{frame}{Predicted 2026 Wins by Team}
+\begin{center}
+    \includegraphics[width=0.9\textwidth]{predicted_wins_chart.png}
+\end{center}
+\end{frame}
+
+% ---------------- SLIDE 3 ----------------
+\begin{frame}{Talking Points: Predicted Wins}
+\begin{itemize}
+    \item The model predicts teams like KC, PHI, and BAL to perform near the top.
+    \item Lower-performing teams from last season are still projected near the bottom.
+    \item This gives a clear picture of expected team strength going into 2026.
+\end{itemize}
+\end{frame}
+
+% ---------------- SLIDE 4 ----------------
+\begin{frame}{Draft Score vs Predicted Wins}
+\begin{center}
+    \includegraphics[width=0.9\textwidth]{draft_vs_wins.png}
+\end{center}
+\end{frame}
+
+% ---------------- SLIDE 5 ----------------
+\begin{frame}{Talking Points: Draft Score}
+\begin{itemize}
+    \item The relationship between draft score and predicted wins is very weak.
+    \item The correlation value is only r = 0.08.
+    \item This suggests draft results alone are not enough to predict team success.
+\end{itemize}
+\end{frame}
+
+% ---------------- SLIDE 6 ----------------
+\begin{frame}{2025 Wins vs Predicted 2026 Wins}
+\begin{center}
+    \includegraphics[width=0.9\textwidth]{wins_comparison.png}
+\end{center}
+\end{frame}
+
+% ---------------- SLIDE 7 ----------------
+\begin{frame}{Talking Points: Past Performance}
+\begin{itemize}
+    \item This plot shows a very strong relationship between 2025 wins and predicted 2026 wins.
+    \item The correlation value is r = 0.99.
+    \item Based on our model, past team performance was the strongest predictor.
+\end{itemize}
+\end{frame}
+
+% ---------------- SLIDE 8 ----------------
+\begin{frame}{Main Takeaway}
+\begin{itemize}
+    \item Our biggest takeaway was that draft results matter, but they do not tell the full story.
+    \item Teams that performed well last season are more likely to be projected higher.
+    \item A better prediction comes from combining draft data with team performance data.
+\end{itemize}
+\end{frame}
+
+% ---------------- FINAL ----------------
+\begin{frame}{What We Learned}
+\begin{itemize}
+    \item We learned how to use data visualizations to explain a real sports prediction problem.
+    \item We also learned that one variable by itself usually is not enough to explain team success.
+    \item This project showed us how Python can turn raw data into useful talking points.
+\end{itemize}
+\end{frame}
+
+\end{document}
